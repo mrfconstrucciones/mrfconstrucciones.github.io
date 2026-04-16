@@ -1,4 +1,4 @@
-# MRF Constructora - Sitio Web
+# MRF Construcciones - Sitio Web
 
 ## Descripción
 Sitio web estático para pequeña constructora con secciones:
